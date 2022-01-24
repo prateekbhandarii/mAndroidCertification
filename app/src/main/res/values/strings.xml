@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidCertification</string>
+    <string name="textTipAmount">Tip Amount: %1$s</string>
+    <string name="textServiceQue">How was the service?</string>
+</resources>
